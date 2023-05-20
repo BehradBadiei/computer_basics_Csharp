@@ -1,0 +1,8 @@
+C:\Users\bshz2\OneDrive\Desktop\computer basics\integer_multiplication\integer_multiplication\obj\Debug\integer_multiplication.csproj.AssemblyReference.cache
+C:\Users\bshz2\OneDrive\Desktop\computer basics\integer_multiplication\integer_multiplication\obj\Debug\integer_multiplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\bshz2\OneDrive\Desktop\computer basics\integer_multiplication\integer_multiplication\obj\Debug\integer_multiplication.csproj.CoreCompileInputs.cache
+C:\Users\bshz2\OneDrive\Desktop\computer basics\integer_multiplication\integer_multiplication\bin\Debug\integer_multiplication.exe.config
+C:\Users\bshz2\OneDrive\Desktop\computer basics\integer_multiplication\integer_multiplication\bin\Debug\integer_multiplication.exe
+C:\Users\bshz2\OneDrive\Desktop\computer basics\integer_multiplication\integer_multiplication\bin\Debug\integer_multiplication.pdb
+C:\Users\bshz2\OneDrive\Desktop\computer basics\integer_multiplication\integer_multiplication\obj\Debug\integer_multiplication.exe
+C:\Users\bshz2\OneDrive\Desktop\computer basics\integer_multiplication\integer_multiplication\obj\Debug\integer_multiplication.pdb

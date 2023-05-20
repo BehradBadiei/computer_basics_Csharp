@@ -1,0 +1,8 @@
+C:\Users\bshz2\OneDrive\Desktop\computer basics\call_name_project\call_name_project\bin\Debug\call_name_project.exe.config
+C:\Users\bshz2\OneDrive\Desktop\computer basics\call_name_project\call_name_project\bin\Debug\call_name_project.exe
+C:\Users\bshz2\OneDrive\Desktop\computer basics\call_name_project\call_name_project\bin\Debug\call_name_project.pdb
+C:\Users\bshz2\OneDrive\Desktop\computer basics\call_name_project\call_name_project\obj\Debug\call_name_project.csproj.AssemblyReference.cache
+C:\Users\bshz2\OneDrive\Desktop\computer basics\call_name_project\call_name_project\obj\Debug\call_name_project.csproj.SuggestedBindingRedirects.cache
+C:\Users\bshz2\OneDrive\Desktop\computer basics\call_name_project\call_name_project\obj\Debug\call_name_project.csproj.CoreCompileInputs.cache
+C:\Users\bshz2\OneDrive\Desktop\computer basics\call_name_project\call_name_project\obj\Debug\call_name_project.exe
+C:\Users\bshz2\OneDrive\Desktop\computer basics\call_name_project\call_name_project\obj\Debug\call_name_project.pdb
