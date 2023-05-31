@@ -1,0 +1,15 @@
+C:\Users\bshz2\OneDrive\Desktop\computer basics\project_fibonacci\project_fibonacci\bin\Debug\net7.0\project_fibonacci.exe
+C:\Users\bshz2\OneDrive\Desktop\computer basics\project_fibonacci\project_fibonacci\bin\Debug\net7.0\project_fibonacci.deps.json
+C:\Users\bshz2\OneDrive\Desktop\computer basics\project_fibonacci\project_fibonacci\bin\Debug\net7.0\project_fibonacci.runtimeconfig.json
+C:\Users\bshz2\OneDrive\Desktop\computer basics\project_fibonacci\project_fibonacci\bin\Debug\net7.0\project_fibonacci.dll
+C:\Users\bshz2\OneDrive\Desktop\computer basics\project_fibonacci\project_fibonacci\bin\Debug\net7.0\project_fibonacci.pdb
+C:\Users\bshz2\OneDrive\Desktop\computer basics\project_fibonacci\project_fibonacci\obj\Debug\net7.0\project_fibonacci.csproj.AssemblyReference.cache
+C:\Users\bshz2\OneDrive\Desktop\computer basics\project_fibonacci\project_fibonacci\obj\Debug\net7.0\project_fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bshz2\OneDrive\Desktop\computer basics\project_fibonacci\project_fibonacci\obj\Debug\net7.0\project_fibonacci.AssemblyInfoInputs.cache
+C:\Users\bshz2\OneDrive\Desktop\computer basics\project_fibonacci\project_fibonacci\obj\Debug\net7.0\project_fibonacci.AssemblyInfo.cs
+C:\Users\bshz2\OneDrive\Desktop\computer basics\project_fibonacci\project_fibonacci\obj\Debug\net7.0\project_fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\bshz2\OneDrive\Desktop\computer basics\project_fibonacci\project_fibonacci\obj\Debug\net7.0\project_fibonacci.dll
+C:\Users\bshz2\OneDrive\Desktop\computer basics\project_fibonacci\project_fibonacci\obj\Debug\net7.0\refint\project_fibonacci.dll
+C:\Users\bshz2\OneDrive\Desktop\computer basics\project_fibonacci\project_fibonacci\obj\Debug\net7.0\project_fibonacci.pdb
+C:\Users\bshz2\OneDrive\Desktop\computer basics\project_fibonacci\project_fibonacci\obj\Debug\net7.0\project_fibonacci.genruntimeconfig.cache
+C:\Users\bshz2\OneDrive\Desktop\computer basics\project_fibonacci\project_fibonacci\obj\Debug\net7.0\ref\project_fibonacci.dll
